@@ -25,6 +25,11 @@
     "semantic-ui-css": "2.x",
     "semantic-ui-react": "2.x"
   },
+  {
+  "engines": {
+    "node": "16.20.2"
+  }
+},
   "devDependencies": {
     "@types/node": "16.x",
     "@types/react": "17.x",
